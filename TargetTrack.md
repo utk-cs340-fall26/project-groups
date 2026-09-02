@@ -12,7 +12,7 @@ The central purpose of TargetTrack is to shift the recruiting workflow from manu
 - Sullivan Clarke - sullivan-clarke
 - Shrish Sharma - shrxshcode
 - Ryan Matthews - rmatth20
-- Carter [ADD LASTNAME] - [ADD GITHUB ID]
+- Carter Oliver - crolive
 - Jake Ramsey - jake-ramsey
 
 Our group is full.
