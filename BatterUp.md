@@ -4,7 +4,7 @@
 
 # Project Description
 
-Meal Map is a centralized recipe collection and meal planner. It allows users to save and edit their favorite recipes. It also has convenient features such as calorie counts, and meal suggestions, where you can input the groceries you have and the application will tell you what you can make with them.
+Batter Up is a centralized recipe collection and meal planner. It allows users to save and edit their favorite recipes. It also has convenient features such as calorie counts, and meal suggestions, where you can input the groceries you have and the application will tell you what you can make with them.
 
 ---
 
