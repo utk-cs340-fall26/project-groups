@@ -7,4 +7,5 @@ Team 30  is creating an application similar in purpose to Letterboxd, but for mu
 - Kaden Turner-Young | kadendaniel
 - Avrome Duran       | ADuran531
 - Lucas May          | lucas-utk
+
 Status: Room for 1 more
