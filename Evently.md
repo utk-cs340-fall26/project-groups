@@ -13,11 +13,13 @@ Businesses and other organizations can also share information about their events
 
 ## Group Members 
 
-- Taylor Kennedy - codedtech2
-- River Baxter - rbaxter5
-- Andrew Hernandez - aherna57
-- Quoc Nguyen - qnguye16
-- Noah Gray - ngray11
+| Group Member | GitHub ID |
+| --- | --- |
+| Taylor Kennedy | codedtech2 |
+| River Baxter | rbaxter5 |
+| Andrew Hernandez | aherna57 |
+| Quoc Nguyen | qnguye16 |
+| Noah Gray | ngray11 |
 
 ---
 
