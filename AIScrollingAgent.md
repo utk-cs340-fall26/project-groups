@@ -1,5 +1,5 @@
 # AI Scrolling Agent
-An AI scrolling agent that harbors data for digital marketers. The agent works over multiple platforms (TikTok, X, etc.) and uses a trend system based off hits of certain words/concepts
+An AI scrolling agent that searches though multiple shopping apps and websites to help shoppers find what they want. 
 # Team Members
 - Darin Harris - darinH5
 - Dominick Vichaikul - dvich17
