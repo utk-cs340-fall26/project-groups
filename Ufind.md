@@ -1,4 +1,4 @@
-# Project Idea -> Chills
+## Project Idea -> Chills
 
 ---
 
